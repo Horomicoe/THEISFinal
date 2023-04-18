@@ -1,0 +1,58 @@
+/* Change the font for the entire website */
+body {
+    font-family: 'Open pSans', sans-serif;
+  }
+  
+  /* Change the font for paragraphs */
+  p {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  /* Change the font for bullet points */
+  ul, ol {
+    font-family: 'Lato', sans-serif;
+  }
+  body {
+    background-color:  whitesmoke; /* Replace with your desired color */
+  }
+  .display-container {
+    background-color: black;
+    color: white;
+    padding-right: 25px;
+  }
+  .byu {
+    margin-bottom: 30px;
+  }
+  .my-goals {
+    margin-top: 50px;
+  }
+  .video-embedded {
+    height: 400px;
+    width: 600px;
+  }
+  .info-section {
+    margin-top: 40px;
+  }
+  .company-btn {
+    margin-top: 25px;
+  }
+  .goals-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .info-wrapper {
+    background-color: darkgrey;
+    padding:  15px;
+    margin: 40px;
+    display: flex;
+    height: fit-content;
+    width: 75vw;
+    justify-content: center;
+    align-items: center;
+  }
+  .two {
+    display: flex;
+    justify-content: center;
+  }
